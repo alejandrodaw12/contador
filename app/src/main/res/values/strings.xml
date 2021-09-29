@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contador</string>
+    <string name="txt_cero">0</string>
+    <string name="btn_contador">contador</string>
+    <string name="btn_reset">Reset</string>
+
+</resources>
